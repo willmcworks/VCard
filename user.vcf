@@ -6,9 +6,9 @@ FN:Joe Wagner
 NICKNAME:Joe
 ORG:Stetson CyberGroup Inc.;
 TITLE:Director of CyberSecurity Operations
-EMAIL;type=INTERNET;type=Personal:joeawagner@icloud.com
+EMAIL;type=INTERNET;type=HOME:joeawagner@icloud.com
 EMAIL;type=INTERNET;type=WORK:jwagner@stetsoncg.com
-TEL;type=Personal;type=VOICE:(631) 680-0932
+TEL;type=MOBILE;type=VOICE:(631) 680-0932
 TEL;type=WORK;type=VOICE:(631) 417-3500
 item5.ADR;type=WORK:;;360 Motor Parkway;Hauppauge;NY;11727;United States
 item5.X-ABADR:us
