@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+N:Wagner;Joe;;;
+FN: Joe  Wagner 
+ORG:Stetson CyberGroup Inc.;
+TITLE:Director of CyberSecurity Operations
+EMAIL;type=INTERNET;type=WORK;type=pref:jwagner@stetsoncg.com
+EMAIL;type=INTERNET;type=PERSONAL;type=pref:joeawagner@icloud.com
+TEL;type=WORK;type=VOICE:16314173500
+TEL;type=PERSONAL;type=VOICE:16314173500
+item2.URL;type=pref:stetsoncg.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
